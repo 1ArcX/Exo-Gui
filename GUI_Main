@@ -1,1 +1,7 @@
-print("Hello")
+local admins = {
+635394516;
+270910992;
+1310998423;
+1163780619;
+}
+return admins
