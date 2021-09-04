@@ -1,9 +1,10 @@
+--WhiteList bans:
+--607422194 - shadowgamer804
 local admins = {
 635394516;
 270910992;
 1310998423;
 1163780619;
 1286123562;
-607422194;
 }
 return admins
